@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/terarosa/static/css/main.937ef36e.chunk.css",
-    "main.js": "/terarosa/static/js/main.0802edef.chunk.js",
-    "main.js.map": "/terarosa/static/js/main.0802edef.chunk.js.map",
+    "main.js": "/terarosa/static/js/main.29a2fcc3.chunk.js",
+    "main.js.map": "/terarosa/static/js/main.29a2fcc3.chunk.js.map",
     "runtime-main.js": "/terarosa/static/js/runtime-main.6ce9ae21.js",
     "runtime-main.js.map": "/terarosa/static/js/runtime-main.6ce9ae21.js.map",
-    "static/js/2.6b442ea4.chunk.js": "/terarosa/static/js/2.6b442ea4.chunk.js",
-    "static/js/2.6b442ea4.chunk.js.map": "/terarosa/static/js/2.6b442ea4.chunk.js.map",
+    "static/js/2.872165a3.chunk.js": "/terarosa/static/js/2.872165a3.chunk.js",
+    "static/js/2.872165a3.chunk.js.map": "/terarosa/static/js/2.872165a3.chunk.js.map",
     "index.html": "/terarosa/index.html",
     "static/css/main.937ef36e.chunk.css.map": "/terarosa/static/css/main.937ef36e.chunk.css.map",
-    "static/js/2.6b442ea4.chunk.js.LICENSE.txt": "/terarosa/static/js/2.6b442ea4.chunk.js.LICENSE.txt",
+    "static/js/2.872165a3.chunk.js.LICENSE.txt": "/terarosa/static/js/2.872165a3.chunk.js.LICENSE.txt",
     "static/media/svg-1.svg": "/terarosa/static/media/svg-1.b81dddc1.svg",
     "static/media/svg-2.svg": "/terarosa/static/media/svg-2.6459adb7.svg",
     "static/media/svg-3.svg": "/terarosa/static/media/svg-3.2aa94692.svg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6ce9ae21.js",
-    "static/js/2.6b442ea4.chunk.js",
+    "static/js/2.872165a3.chunk.js",
     "static/css/main.937ef36e.chunk.css",
-    "static/js/main.0802edef.chunk.js"
+    "static/js/main.29a2fcc3.chunk.js"
   ]
 }
