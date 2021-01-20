@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/terarosa/static/css/main.937ef36e.chunk.css",
-    "main.js": "/terarosa/static/js/main.29a2fcc3.chunk.js",
-    "main.js.map": "/terarosa/static/js/main.29a2fcc3.chunk.js.map",
+    "main.js": "/terarosa/static/js/main.6c147bfe.chunk.js",
+    "main.js.map": "/terarosa/static/js/main.6c147bfe.chunk.js.map",
     "runtime-main.js": "/terarosa/static/js/runtime-main.6ce9ae21.js",
     "runtime-main.js.map": "/terarosa/static/js/runtime-main.6ce9ae21.js.map",
     "static/js/2.872165a3.chunk.js": "/terarosa/static/js/2.872165a3.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.6ce9ae21.js",
     "static/js/2.872165a3.chunk.js",
     "static/css/main.937ef36e.chunk.css",
-    "static/js/main.29a2fcc3.chunk.js"
+    "static/js/main.6c147bfe.chunk.js"
   ]
 }
